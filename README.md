@@ -5,6 +5,7 @@ Project Submission Date: July 13, 2025
 
 Summary:
 In this project, I built a predictive model to streamline visa approval decisions. Using historical applicant data, I identified the most important features influencing visa status and created an ensemble-based model to support informed recommendations.
+
 Skills & Tools I Used:
 	•	EDA – to examine patterns and trends in applicant data
 	•	Data Pre-Processing – to prepare the dataset for modeling
